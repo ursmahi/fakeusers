@@ -78,7 +78,7 @@ export const App = () => {
       </form>
     </div>
 
-   {showTable && <Table colNames={getCOLNames(selectedElements)} userData={userData}/>}
+   {showTable && selectedElements.length && <Table colNames={getCOLNames(selectedElements)} userData={userData}/>}
     </>
   );
 };
