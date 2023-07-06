@@ -1,0 +1,27 @@
+{
+  "name": "fakeusers",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-table": "^8.9.3",
+    "ag-grid-community": "^30.0.3",
+    "ag-grid-react": "^30.0.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.2"
+  }
+}
