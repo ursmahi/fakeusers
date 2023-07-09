@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tanstack/react-table": "^8.9.3",
     "ag-grid-community": "^30.0.3",
     "ag-grid-react": "^30.0.3",
     "autoprefixer": "^10.4.14",
